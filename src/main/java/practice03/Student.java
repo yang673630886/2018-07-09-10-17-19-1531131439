@@ -1,6 +1,6 @@
 package practice03;
 
-import practice02.Person;
+import practice03.Person;
 
 public class Student extends Person{
 	
