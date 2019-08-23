@@ -2,9 +2,9 @@ package practice02;
 
 public class Student extends Person{
 	
-	private Integer klass;
+	private int klass;
 
-	public Student(String name, int age,Integer klass) {
+	public Student(String name, int age,int klass) {
 		super(name, age);
 		this.klass = klass;
 		// TODO Auto-generated constructor stub
